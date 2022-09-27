@@ -1,6 +1,4 @@
 # Industry-Ready-Project-Tasks
-
-### Git and Github
-
-
-### Docker and Docker Playground
+## Topics
+1. [Git and Github](Week-1.md)
+2. Docker and Docker Playground
